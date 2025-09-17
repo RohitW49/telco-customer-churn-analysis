@@ -59,3 +59,7 @@ The analysis provides a foundation for:
 - 📦 Modifying **service bundles & contract options**  
 
 ---
+
+## 👨‍💻 Author
+**Rohit Wagh**  
+- 📧 Email: [rohitwagh6264@gmail.com](mailto:rohitwagh6264@egmail.com)
