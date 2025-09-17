@@ -1,8 +1,7 @@
 # Telecom Customer Churn Analysis 📊
 
 ## 📌 Overview
-This project analyzes telecom customer data to identify key factors influencing churn.  
-The goal is to help telecom companies reduce churn by deriving actionable insights.
+This project focuses on identifying the key factors contributing to customer churn using the Telecom Customer dataset. The goal is to uncover actionable insights that can help a telecom company improve customer retention and reduce churn rates through targeted strategies.
 
 ---
 
